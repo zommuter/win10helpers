@@ -1,0 +1,12 @@
+[submodule "customize"]
+	path = customize
+	url = https://github.com/zommuter/customize.git
+[submodule "hash2identicon.js"]
+	path = hash2identicon.js
+	url = https://github.com/zommuter/hash2identicon.js.git
+[submodule "desktopini.py"]
+	path = desktopini.py
+	url = https://github.com/zommuter/desktopini.py.git
+[submodule "ahk-scripts"]
+	path = ahk-scripts
+	url = https://github.com/zommuter/ahk-scripts.git
